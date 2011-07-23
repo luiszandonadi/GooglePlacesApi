@@ -14,11 +14,19 @@ import org.json.JSONObject;
  * @author luis
  */
 public class Place {
-
+    private String id;
     private String icon;
     private String name;
     private Double latitude;
     private Double longitude;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 
     public String getIcon() {
         return icon;
@@ -61,6 +69,7 @@ public class Place {
             result.setLongitude((Double) location.get("lng"));
             result.setIcon(pontoReferencia.getString("icon"));
             result.setName(pontoReferencia.getString("name"));
+            result.setId(pontoReferencia.getString("id"));
             return result;
         } catch (JSONException ex) {
             Logger.getLogger(Place.class.getName()).log(Level.SEVERE, null, ex);
@@ -70,8 +79,10 @@ public class Place {
 
     @Override
     public String toString() {
-        return "PontoReferencia{" + "icon=" + icon + ", name=" + name + ", latitude=" + latitude + ", longitude=" + longitude + '}';
+        return "Place{" + "id=" + id + ", icon=" + icon + ", name=" + name + ", latitude=" + latitude + ", longitude=" + longitude + '}';
     }
+
+  
     
     
     
