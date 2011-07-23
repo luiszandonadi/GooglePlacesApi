@@ -1,20 +1,11 @@
-`git clone git://github.com/luiszandonadi/GooglePlacesApi.git
-cd GooglePlacesApi
-mvn jar:jar`
-
-get jar in a target directory.
 
 
+<p><code>git clone git://github.com/luiszandonadi/GooglePlacesApi.git cd GooglePlacesApi mvn jar:jar</code></p>
 
+<p>get jar in a target directory.</p>
 
+<p><strong>Using it:</strong></p>
 
-**Using it:**
+<p><code>PlacesService service = new PlaceService("your key here"); service.findPlaces(latitude,longitude);</code></p>
 
-`PlacesService service = new PlaceService("your key here");
-service.findPlaces(latitude,longitude);`
-
-
-Enjoy it!!
-
-
-
+<p>Enjoy it!!</p>
