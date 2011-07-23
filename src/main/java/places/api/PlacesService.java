@@ -43,7 +43,6 @@ public class PlacesService {
             for (int i = 0; i < array.length(); i++) {
                 try {
                     Place place = Place.jsonToPontoReferencia((JSONObject) array.get(i));
-
                     arrayList.add(place);
                 } catch (Exception e) {
                 }
@@ -75,7 +74,7 @@ public class PlacesService {
         try {
             URL url = new URL(theUrl);
             URLConnection urlConnection = url.openConnection();
-            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()));
+            BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(urlConnection.getInputStream()), 8);
             String line;
             while ((line = bufferedReader.readLine()) != null) {
                 content.append(line + "\n");
