@@ -1,0 +1,309 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.telelistas.net/\"\u003eTelelistas\u003c/a\u003e" ],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.32780040,
+               "lng" : -41.13364980
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.24407320,
+                  "lng" : -41.00559040
+               },
+               "southwest" : {
+                  "lat" : -20.41148230,
+                  "lng" : -41.26170920
+               }
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "8a65524ba669226d2b5b1d6005b9efd5283ab3a9",
+         "name" : "Venda Nova do Imigrante",
+         "reference" : "CoQBdwAAALDL45Um9Wj3koZKg6Q7o3YMkzNwozh1z1fxlajI2AQxz5MM_gN8zL3gL9_bQ22sFMQwCVvGVixlQ2osKHqr798SfYrLwLvaTy9v4Q-uMH7X67HRYXIrlOsRKG-dXTWdnW6h6D8J3H3yeeqJjla70GFNGozJzQGMMOV3cRfqiI3oEhDsDGoF1qiT6-6JjjRv-J6rGhQQBpm18Sl7QqP_fmdzl0qQuGIULw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3270640,
+               "lng" : -41.1339130
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/university-71.png",
+         "id" : "4896cfb89f4fb6306c06346be1c292489f55d478",
+         "name" : "Faculdade Venda Nova do Imigrante - Faveni",
+         "reference" : "CpQBgQAAAOXr9UCxFrll--z4NTvkEuSTqCVXKOsW4b5rK4_3kydl6Y3Ogao48nrr_AYUpK_2BCTg5kItGMbtp1PAwhWBLB7dGP_m27n5535L9hif7q-6lSvy12ygmhYGnH_CtmPqYA4nzeQ1QQez3cIx5z8SHys0KS3j1U0XQCJUP6DhHxuDszTTCLkyF__125Avjv5bvxIQj50o3-NtzMITnxJZahtb6BoU4iXzSs-HvsQSmUhABPnLB0d7Bx8",
+         "types" : [ "university", "school", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3270520,
+               "lng" : -41.1338870
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "faa50ba59c11939ab0152ed38869745b901785a4",
+         "name" : "FMZ Rádio Educativa",
+         "reference" : "CnRqAAAAcmfINezEqaT8FdRaLzdE2obLF1pWK1F3bSVj6LhNDGr0oAQpRdS_gwYGrUzwfSSEJDvD20ZJxWC_2SoJX0sHWbKHvJooQgKAxmgHQ09KZZRKV_dGCRbIFI4kMw-ynTtPgl_ymekQkZ15p3O7yb4vARIQJDp4SPKO1SvoYUaoyFZ4vxoUi8l9z1WmkgzV9_UtUCqeD53GOWE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Rua Ângelo Altoé - Vl Betânia, Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3271240,
+               "lng" : -41.133740
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c85bb8a614bb98fff17b95519a4cca1c1ad635b3",
+         "name" : "Hotel Esmig",
+         "reference" : "CnRhAAAAtzjB62gjri0rFhNqW-bHAo-CU9s3HdaTs-WWCAU1eviW8sUhwjt6OqRsN9-ojJvvtqCup60wLeRIyl_H2S30ByIPa0dAhFNdvTxgIwesC1LK2o1lRLvfLOuX8Dq2Khow_nOkX6XIQvo4jxXgzPs5XBIQ2XtHDqVoh_tKJfmnGb5CPxoUib26osDbXEH8Lxqli5iRnruZJiE",
+         "types" : [ "lodging", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - S Pedro, Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/car_dealer-71.png",
+         "id" : "1f84c9139cadfb69b066e50b8e27b87e031aed77",
+         "name" : "Venturim Car Multimarcas",
+         "reference" : "CnRuAAAAfQLwVsyhcRiAsEJW9t2is3bto5yiPkHmyPPaLv-VkYXyWDvb45IisDGijFqnGoKXD89dp2Jfl5emXdQptQ5iZz1iURBNM9AGixDSVkGrIqWa6hhMYX3ClSV9tAtont8s0tFNTmtLP1A6aXf__jfJKxIQw8itf8ZyrLfjIhki6d4ZgxoUIl3lOL0aVogn9pJyoIb0BKuuc9k",
+         "types" : [ "car_dealer", "store", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3277740,
+               "lng" : -41.1325530
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "da772e730bebdaa1382dcceeccc7507264f97ec1",
+         "name" : "Irmãos Faé",
+         "reference" : "CnRjAAAA5PFS2WxT33na4zMgmoUSLqwt5sTXQdJDNvdHshr_lBpZfayqq_GG4dZPU5nt0x_mePnLakYyEvOzp0eokX-I-YLqH008tcjGpcdi58mtZ-U36uzFz5EZH3rWym5ChTkDzFIU2NsQf12e7pP4NYEg1RIQKVrrbmeDByB0WQCv36HkRRoUQF6QtqRsLQ9RTg8IPbAMrgMYtxI",
+         "types" : [ "car_repair", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "650882375c9a1c3549d59227475f31f0df9dd0bf",
+         "name" : "Churrascaria e Restaurante Nova Gauchão",
+         "reference" : "CoQBfgAAABiibtAeYaIezXeOVmgeiZrGRnzoF6USB552Urth3TMBuBNBrM5_m_3CAFKx4NRMVV34PTuOiRi441pE98pf2AhVvoR6gbi_tzibFXy1-LytlQiHgWm1MvUjeZFzzzPXK6JJZtAqoZ4Yltc8MDPBYSRlAKBLp_cyQiVS95H-8_MQEhBkBHfvSSGf_iJLSQ4a80K4GhTxYL2dj2i8DXBoccnU3Gt2iXxRHQ",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3270820,
+               "lng" : -41.1330160
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2f833415afa6a0c6281e91cab5757f300d0d28b2",
+         "name" : "ADVOCACIA CALIMAN",
+         "reference" : "CnRoAAAAPV0rdqWuzGmfYFjLxcD_ifrOyaLKdx5BZwOd3sROXOucOcjxq4bAyT6abuGhrkh6Qic-vjqsj4lnjqCC0cvTsSgP_R4RIpBj2B8sgd8n5qMpB5zoVcq_VID3DrA7aWjz97ch7rGQPigbHav8uWc8jBIQfQCDjeK7hjsnFv4cNY6TSBoUJz3UzHZNKuIxDKqEnMw1uEohdmA",
+         "types" : [ "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "43f229b251d07d9831817d0142f0066656bbc4b2",
+         "name" : "Farmania Farmácia de Manipulação Ltda",
+         "reference" : "CoQBfwAAACE6R4roHIpRo2JkZipgJPhvxJIXUIokUDaeYXWGJ87nKmvb5PFfonzmbroaXHlbxg8i5hF8blLTZ-3h_fR94V2CKQRaEeqY372d38WG_FlO2mj_c7B1r0o33-Q_3nQupOqRJU-ygUe0cC-jpTZsRJsAKPFc8I4thvJSncL8Fe-tEhDArllAwfa2spIRxopsx9RiGhQbzUpQRyoaofxDcaxIcec3PIUrCQ",
+         "types" : [ "pharmacy", "store", "health", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3270450,
+               "lng" : -41.1339020
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c7929add49cb9047c32479ab24d5d67e776dd3c8",
+         "name" : "Eletro Motriz",
+         "reference" : "CnRjAAAA13Mv6gtFRcffgkQuXhGpkkVKhxdeCPaQX0GwzNL6LpsvPqUHuoBK7DihF7XhTYU306xAKzpNaSK3JTAZ7RVBNaH6hy0SWbNlkbd_4fviFROs7d-1zRPIofF-HqtVNcGFXeXvJao8OOffTDp5N552hxIQZxCi4Dp4jaCvTThyLMVK4xoUFeu30_RU879JB8PgidaMwREtbKs",
+         "types" : [ "home_goods_store", "store", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "92846aa79edf4a7780bb7f95d9eac4b282f85e0f",
+         "name" : "Clóvis Zandonadi",
+         "reference" : "CnRnAAAABSwCSPYuBz-yaahOk5ADYhC97bHNpsxANSl5sioExS3UGfWUGvCswjdSWUn5rvVM_XBJHg7ccGNd7WKSrAtjoJwsuLBG5tq_GSFFrcZVFBrAImQ802OZWTcfk7hCB2OCx9jzjO9WDyg7LKe65J6ObhIQteNpaT1PpTa3NWMQ_tqc5hoU4kHQZ-IRlT4RqB-TQltmV0CqCiY",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3276950,
+               "lng" : -41.1326840
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "f816047e62fef83c4c9f9791a911489cae0f0f3e",
+         "name" : "Antônio Fae",
+         "reference" : "CnRjAAAAiCum0CkrABLFUUyOcmKLIspGd2ehrbnGVLbyOLLmg9bfuqUdVvaZw3g3d7-ZDDej4T0FOsibJub7v--Gs_7dDtbEhW0XYLHHsIJublGjtW8M1Nrs2pKNxrsOgUdD5cVdtMqgQBT7qx6R674vH7cguxIQukKx2qkknkfx9AuMqd4ZzBoUdFXE45_uftiTPRd8TBugizMaiBw",
+         "types" : [ "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - S Pedro, Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "2bee79f98d25f307246ff06db59f6bea2fe88c70",
+         "name" : "Click Motos Ltda",
+         "reference" : "CnRnAAAA75Ifhdgm6j9gVZcrovb5NxC78m-bh61wnQO9S3hFEA-mHVFSeJkcpmXhSsQ0LbAVUvzOKOJ5Q7h2DDl-PzzjxDF9WCrtb_RmiCrR8f8CCJ9XgE1Kua7xxhJI2vbplcaxW3CjcYVQEGb3frA2TI-54xIQOkohDhTKfkyTJAsDKoaahBoUphLXK_Z_ssPbBfLYw-wja3wTv-0",
+         "types" : [ "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png",
+         "id" : "f4c82a0bf50d53874f2511770fb7200b1cd2277d",
+         "name" : "Rômulo Evandro Andriao",
+         "reference" : "CnRuAAAApfp_-BBrWTuA8ThlScSXvWpXU64gQErl1r7ludvmmf1e6-stOD2WTxaO_Fz0KngJzXqrzy9YTzem1pArEsegP1_c9DuK_o0GkOEWrEFJszQYG5DM7MeroUG3smnxB7XzGB-wqQk9HLaHpd945tK3FxIQ3oYjbI4rFFjyKrwPRUJyiBoUrUE8wL43XZ9JF1yoh0_1wPN0RAU",
+         "types" : [ "dentist", "health", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - S Pedro, Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3271240,
+               "lng" : -41.133740
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "44800fb68bfa894182e772945d92820074d63d55",
+         "name" : "Tdb Café",
+         "reference" : "CmRgAAAAJbm8dfA5-cpVvo20dRLKhzuRQmhqWPRHC20Hmudkuw0YMM11pquuxJAtGEc14TySbDa4TpsiE5t1mAC7hvENKuVZQ-xsqGpfseHB8GtXmYkQHRfKuo-2UYqZG1pIsQjmEhDB3KbFgfEMx-fAtIB31ZihGhT1blnL6AAom2q09PgWgXkDoFVOsQ",
+         "types" : [ "restaurant", "food", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3271240,
+               "lng" : -41.133740
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "969a9b4c46c5400c5c16c619efbfc7f55046e9b3",
+         "name" : "Roma Despachantes",
+         "reference" : "CnRoAAAA-KauwUpHBHo0e_ZXL8QffCJV8xCDmghGttA0W1mOqPVS9qRYE-Rb62BoyFci1f29P1l5wwGt14x-a53HB-2nZpEKGYuHdBc_xwcd-TIUrOwh_DjbKQCu5URRXGSuH69sDAXY-DXgXpQXR1AnacY-bBIQF_wKsXik0QTzPINPq22-8xoUZc6CPtaHy5mBsNoaPUSJlL56VIE",
+         "types" : [ "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - S Pedro, Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3272520,
+               "lng" : -41.1334780
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "5737f1a028a5b0c44596d87ce060ae9827a4947e",
+         "name" : "Bestdry",
+         "reference" : "CmReAAAAiMVMJzKhIMOZm_s-XPDDDSSAO-_9qNzxVW_i_3QYFz-K5maKV308wh5S7nBPG9JD4RLCvgdMdfGTZiKPzfKkg64HR21Rl87LAx9Q4t3qG4tREBnmADmVo8C7wXoCJbnzEhCfVIqKRHxeH5Lpyv06MMx_GhQ9yxUtfTzq4DTExRlR_ErOEZxx0A",
+         "types" : [ "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e4fd948f20a469a0d2af34dee7ba44ea186db6d6",
+         "name" : "Borracharia Kantão",
+         "reference" : "CnRpAAAAi4yekzv2ec1WNwM4WZ055jP07xwjD2q-I-tdO2QXxrR3resexLV2NyB9xNZGfaoQAOhcicdYY5Z2Ns9sgXKKqV83RkdVMZ-0JfNfZiytK6ZWsIFXeIHW0-m1wP5C_gXK1ttL-DyYzq4TTdH-7Fz76xIQXJmcMtv6QKv2bhiCYbOZqhoUNf0XOzZckGwv1DfX8P3u3UnSPgw",
+         "types" : [ "store", "car_repair", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3277350,
+               "lng" : -41.13380799999999
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "bbfec4fff56dc724b5b7545a077d28edb8dd75ab",
+         "name" : "Prefeitura",
+         "reference" : "CmRgAAAA5sXGl1qozoYXIVGqM6YYowaVdXEd3XgtwKnshi0ehfIS97fs0Sc1iTkOb0MSKpDKhZPfNMYeV0GqXwt1pdW4oj27UtSUUIrE5v_h34AzHMZvB_H6TqeeZJmEPTDWIL_4EhBEjT6GEWqxj_WCSNqxJiSxGhTq_12A20CmqoFWM_Gx3-xRTga7og",
+         "types" : [ "establishment" ],
+         "vicinity" : "Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.327260,
+               "lng" : -41.1334610
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "825dd9247dd317b3f1b1891977a21fa1d38fb82b",
+         "name" : "Fábio da Silva",
+         "reference" : "CnRlAAAAP3w2tEnN8kc7GOOUf2AEEjYHVeIEoO_SS5_VH21HDgktjljreDdwmAlWMWGb08e-XVFTox_kK59FCLlNdKXIiMfincTRDQLGIR8e7a-Eylkc5yZHK72wIc_KeYPmIQ9xmnD-CWew6iTu-e5NIIBQSxIQLEPtd8VR_dwnXWTJ5ayvsRoUg2WRQ7bCahK5y_3Nr52K-h0bCLs",
+         "types" : [ "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - S Pedro, Venda Nova do Imigrante"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -20.3271240,
+               "lng" : -41.133740
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3f35715cc8cf0bfb0f6c1d3aa0414e74da51cf5f",
+         "name" : "Preti, Sandro O D",
+         "reference" : "CnRoAAAA9Zw-DPUCOLlNVLgfQec4R_JtbirpY-ylbqGxx24pEWvwX-tf2VjYcP-Tsrnw8hRrBR2_etPUFHA3T8jen0b6RjeL0OWpOugCV50j4cf9SDRSl0Pn-9sjUsz8QBwr1Bs17ZF1Uwu-aUg-WrqrI9bpYBIQLWeLFkPxiayDBe8V_rPUihoU-vS2riV0yYFig0ERut9Xlz5wnGE",
+         "types" : [ "accounting", "finance", "establishment" ],
+         "vicinity" : "Avenida Ângelo Altoé - Venda Nova do Imigrante"
+      }
+   ],
+   "status" : "OK"
+}
