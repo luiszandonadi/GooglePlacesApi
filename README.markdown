@@ -4,7 +4,7 @@
 
 `mvn jar:jar`
 
-get jar in a target directory.
+get the jar in a target directory.
 
 
 
@@ -12,7 +12,7 @@ get jar in a target directory.
 
 **Using it:**
 
-`PlacesService service = new PlaceService("your key here");`
+`PlacesService service = new PlaceService("put your key here");`
 
 `List<Place> findPlaces = service.findPlaces(latitude,longitude);`
 
